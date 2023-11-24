@@ -9,7 +9,7 @@ relationship.
 
 
 # Gender Wage Gap Analysis
-## Notebook: da1_assignment1_artyom-ashigov.ipynb
+## Notebook: da2_assignment1_artyom-ashigov.ipynb
 ## Objective:
 This data analysis notebook investigates the gender wage gap using the U.S. Census Bureau's Current Population Survey (CPS) dataset. The analysis is conducted in Python using various libraries such as Pandas, Seaborn, Plotnine, and Statsmodels.
 The primary aim is to comprehensively examine both conditional and unconditional gender wage gaps, considering factors such as education, age, and other demographic variables.
